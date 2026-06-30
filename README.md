@@ -20,3 +20,12 @@ Please feel free to use it.
 - Vanguard camouflage often has mismatched UI asset names and GfxImage names, so to cover all cases, it is recommended to dump a CSV file or similar to find out the names.
 - To animate the camos, you need to call `update_animated_camos()` from a function that runs every frame, such as `R_EndFrame`.
 - This source code registers camoreload_f(), but it's for client-side sources that have a game_console, so if you don't have a game_console, you can write it more simply.
+
+-----
+
+[ Contact ]
+ 
+- HiNAtyu
+- YouTube : https://www.youtube.com/@HiNAtyuRoom
+- Twitter : @hinatyu ( https://x.com/hinatyu )
+- Discord : hinatapoko ( https://discordapp.com/users/239453096026046464 )
